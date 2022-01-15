@@ -20,3 +20,4 @@ Objectif : Configuer l'instance aws et déployer l'application java
 Comment l'utiliser :
 - Lancer le docker-compose
 - Lancer le playbook pour déployer l'application java avec les paramètres souhaités
+
