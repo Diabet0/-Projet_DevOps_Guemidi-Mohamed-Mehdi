@@ -5,7 +5,7 @@ Utilisation :
 - Ajouter les bons nom utilisateur
 - Lancer le docker compose
 - Aller sur l'interface Jenkins
-- Lancer la pipeline avec les paramètres et attendre que ce soit fini
+- Lancer la pipeline avec les paramètres
 
 TERRAFORM/IAC
 
