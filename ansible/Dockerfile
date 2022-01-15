@@ -36,5 +36,5 @@ RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
 
 USER jenkins
 # Jenkins runs all grovy files from init.groovy.d dir
-##COPY --chown=jenkins:jenkins conf/scripts/admin-user.groovy /usr/share/jenkins/ref/init.groovy.d/
+##COPY --chown=jenkins:jenkins conf/scr9+ts/admin-user.groovy /usr/share/jenkins/ref/init.groovy.d/
 ##VOLUME /var/jenkins_home

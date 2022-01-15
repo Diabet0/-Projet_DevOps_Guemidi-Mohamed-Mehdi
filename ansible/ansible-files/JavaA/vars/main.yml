@@ -1,5 +1,5 @@
 ---
-# vars file for JavaCac
+# vars file for JavaA
 JAVA_VERSION : "openjdk-11-jdk"
 USER_NAME : "java_user"
 JAR_PATH : "/home/java_user/"
