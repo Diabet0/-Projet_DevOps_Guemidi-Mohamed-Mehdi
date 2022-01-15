@@ -2,4 +2,4 @@
 - name: Java
   hosts: terraform
   roles:
-    - JavaCac
+    - JavaA
