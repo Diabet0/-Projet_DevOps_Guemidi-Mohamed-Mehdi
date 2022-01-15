@@ -1,7 +1,7 @@
 JENKINS
 
-Objectif : Créer un .jar à partir du repository Git : https://github.com/Ozz007/sb3t
-Comment l'utiliser :
+Objectif : Génerer un .jar à partir du repository Git : https://github.com/Ozz007/sb3t
+Utilisation :
 - Lancer le docker compose
 - Aller sur l'interface Jenkins
 - Lancer la pipeline avec les paramètres et attendre que ce soit fini
